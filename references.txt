@@ -1,1 +1,6 @@
-
+book: no any free book
+website : www.smalltalk.org
+manual : https://www.gnu.org/software/smalltalk/manual/gst.html
+community: http://forum.world.st/
+project : https://github.com/pharo-project/pharo
+compiler:  Pharo  https://pharo.org/download
