@@ -1,0 +1,11 @@
+1. Our program will implement a random color  generator in ellipse.
+
+2.We expect the program to have one ellipse. This ellipse have 3 parts. When user clicks on 
+different parts, it changes to random color from black.
+
+3. We expect the program to has less than 100 lines of code.
+
+4. We think this program will be a good illustration of the features of our language because it 
+has own packages. We use it as a GUI. This GUI has different objects. We combine these objects into
+a shape. We also give events that change color when user clicks on each object. This program 
+shows Smalltalk is the language that started the Object Oriented Programming revolution.
