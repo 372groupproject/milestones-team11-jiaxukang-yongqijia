@@ -9,3 +9,11 @@ Open Pharo -> Tools -> transcript -> Enter "P2_MyIf new IfPrint" -> select all y
 store P2_feature.ts to pharo's file browser
 
 Open Pharo -> Tools -> transcript -> Enter "P2_feature new DoYourThing" -> select all your enter message -> right click -> Do it
+
+store P3_feature.ts to pharo's file browser
+
+Open Pharo -> Tools -> transcript -> Enter "P3_feature new P3_content" -> select all your enter message -> right click -> Do it
+
+store P3_array.ts to pharo's file browser
+
+Open Pharo -> Tools -> transcript -> Enter "P3_array new Array" -> select all your enter message -> right click -> Do it
