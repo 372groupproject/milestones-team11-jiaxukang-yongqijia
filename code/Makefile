@@ -17,3 +17,12 @@ Open Pharo -> Tools -> transcript -> Enter "P3_feature new P3_content" -> select
 store P3_array.ts to pharo's file browser
 
 Open Pharo -> Tools -> transcript -> Enter "P3_array new Array" -> select all your enter message -> right click -> Do it
+
+store P4_feature.ts to pharo's file browser
+
+Open Pharo -> Tools -> transcript -> Enter "P4_feature new Dog" -> select all your enter message -> right click -> Do it
+
+(If you can not open p5_collection directly.)
+Select all code in P5_collection -> copy it -> open pharo -> tools -> playground -> paste -> green play button.
+
+
