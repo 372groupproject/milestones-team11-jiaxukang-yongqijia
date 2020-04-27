@@ -25,4 +25,15 @@ Open Pharo -> Tools -> transcript -> Enter "P4_feature new Dog" -> select all yo
 (If you can not open p5_collection directly.)
 Select all code in P5_collection -> copy it -> open pharo -> tools -> playground -> paste -> green play button.
 
+(Prepare for running my program):
+install Bloc first.
+Open Pharo 8.0 -> Tools -> playground -> copy "
+[
+    EpMonitor current disable.
+    Metacello new
+        baseline: 'Bloc';
+        repository: 'github://feenkcom/Bloc/src';
+        load
+] ensure: [ EpMonitor current enable ] " in it -> run.  (detailed in https://github.com/feenkcom/Bloc)
 
+-> delete all -> copy code from program.ph -> playground -> paste -> run .
