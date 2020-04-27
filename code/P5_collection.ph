@@ -1,0 +1,1 @@
+ord := OrderedCollection new.ord add:'hello';add:'enemy';add:3;add:1.ord := ord select:[ :item | item class == ByteString ].ord indexOf:'hello'.ord removeAt: 1.ord add:'world' after:'hello'.ord at:5 put: 'more'.
